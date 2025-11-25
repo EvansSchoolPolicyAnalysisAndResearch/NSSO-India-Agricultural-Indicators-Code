@@ -1,6 +1,6 @@
 # NSSO-India-Agricultural-Indicators-Code
 
-This repository includes Stata do.files developed by the Evans School Policy Analysis & Research Group (EPAR) for the construction of a set of agricultural development indicators using data from the World Bank's Living Standards Measurement Study - Integrated Surveys on Agriculture (LSMS-ISA) surveys and produced in partnership with the host countries' national statistics bureaus. 
+This repository includes Stata do.files developed by the Evans School Policy Analysis & Research Group (EPAR) for the construction of a set of agricultural development indicators using data from the National Sample Survey Organization, as part of the <a href = "https://microdata.gov.in/NADA/index.php/catalog/133"> Situation Assessment of Agricultural Household </a> survey. The survey covers three waves, 2002-03, 2012-13, and 2018-19.
 
 If you use or modify our code, please cite us using the provided citation in the header of the do file.
 
